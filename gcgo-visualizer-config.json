@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/dvorgbe/gcgo-visualizer-dataset/blob/e347527883ef74ed1550ecbc3a9e6e72d24e1eae/student-gcgo-selections.csv",
+	"name": "Selected GCGO Intersections",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Student" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 14 }
+	]
+}
