@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/dvorgbe/gcgo-visualizer-dataset/blob/e347527883ef74ed1550ecbc3a9e6e72d24e1eae/student-gcgo-selections.csv",
+	"file": "https://raw.githubusercontent.com/dvorgbe/gcgo-visualizer-dataset/main/student-gcgo-selections.csv",
 	"name": "Selected GCGO Intersections",
 	"header": 0,
 	"separator": ",",
